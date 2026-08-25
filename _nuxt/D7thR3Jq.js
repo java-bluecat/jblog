@@ -1,0 +1,1 @@
+import{u as t}from"./De7DCysR.js";function o(){return{config:{name:"Welcome",logoText:"Welcome",logoInitial:"L",backgroundImage:t("/images/cr.webp"),backgroundImageOpacity:.45,avatarImage:t("/images/jntm.webp"),links:{github:"https://github.com",qq:"https://ti.qq.com/qcard/index.html?qq=3322407913",twitter:"https://twitter.com",email:null}}}}export{o as u};
